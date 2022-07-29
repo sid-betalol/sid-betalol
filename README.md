@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning and Artificial Intelligence.
 - 🌱 I’m currently learning about Graph Neural Networks and Convolutional Spiking Neural Networks
 - 💞️ I’m looking to collaborate on deep learning projects.
-- 📫 Reach me at my [email](mailto: betalas5@gmail.com).
+- 📫 Reach me at my [email](betalas5@gmail.com).
 
 <!---
 sid-betalol/sid-betalol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
