@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sid-betalol
-- 👀 I’m interested in Machine and Deep Learning, specifically their applications in bioology such as protein engineering tasks.
+- 👀 I’m interested in Machine and Deep Learning, specifically their applications in biology such as protein engineering tasks.
 - 🌱 I’m currently learning about Graph Neural Networks, Generative, and Language Models.
 - 💞️ I’m looking to collaborate on deep learning projects.
 
